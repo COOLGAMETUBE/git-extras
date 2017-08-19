@@ -21,7 +21,7 @@ $ sudo dnf install git-extras
 $ sudo yum install git-extras
 ```
 
-### Ubuntu
+### Ubuntu and Debian
 
 ```bash
 $ sudo apt-get install git-extras
